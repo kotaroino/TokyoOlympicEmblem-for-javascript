@@ -4,4 +4,4 @@ bower install raphael
 ```
 
 # sample
-https://jsfiddle.net/kotaroino/qn2tff73/
+http://jsfiddle.net/kotaroino/164kudgo/1/
